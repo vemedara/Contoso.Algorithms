@@ -9,7 +9,7 @@
     <Description>Hub of algorithms</Description>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageTags>Contoso, Algorithms, Searching, Sorting, Structure, Data Structure</PackageTags>
-    <RepositoryUrl></RepositoryUrl>
+    <RepositoryUrl>https://github.com/vemedara/Contoso.Algorithms.git</RepositoryUrl>
   </PropertyGroup>
 
 </Project>
