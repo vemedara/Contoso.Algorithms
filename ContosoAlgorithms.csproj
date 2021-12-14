@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <PackageId>Contoso.Algorithms</PackageId>
+    <Authors>Venkataraja Medarametla</Authors>
+    <Company>Microsoft Corporation</Company>
+    <Description>Hub of algoroithms</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageTags>Contoso, Algoroithms, Searching, Sorting, Structure, Data Structure</PackageTags>
+    <RepositoryUrl></RepositoryUrl>
+  </PropertyGroup>
+
+</Project>
