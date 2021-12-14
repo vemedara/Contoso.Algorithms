@@ -6,9 +6,9 @@
     <PackageId>Contoso.Algorithms</PackageId>
     <Authors>Venkataraja Medarametla</Authors>
     <Company>Microsoft Corporation</Company>
-    <Description>Hub of algoroithms</Description>
+    <Description>Hub of algorithms</Description>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <PackageTags>Contoso, Algoroithms, Searching, Sorting, Structure, Data Structure</PackageTags>
+    <PackageTags>Contoso, Algorithms, Searching, Sorting, Structure, Data Structure</PackageTags>
     <RepositoryUrl></RepositoryUrl>
   </PropertyGroup>
 
